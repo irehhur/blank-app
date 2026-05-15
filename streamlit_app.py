@@ -35,8 +35,8 @@ st.write("현재: 청주교대 대학생")
 st.write("이전: 학생")
 
 st.subheader("프로젝트")
-st.write("- [프로젝트 1: 간단한 설명]")
-st.write("- [프로젝트 2: 간단한 설명]")
+st.write("- 자기소개")
+st.write("- 취미")
 
 # 푸터
 st.write("---")
